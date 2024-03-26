@@ -1,8 +1,8 @@
 # Notcoin-auto-clicker
 ![photo_2024-03-25_15-20-02](https://github.com/dev-grix/Notcoin-auto-farm-2.0/assets/125741680/e3cd5116-10f9-48a3-b6b1-7402059d9084)
-# Notcoin-auto-farm-2.0 [Github All Releases](https://github.com/dev-grix/Notcoin-auto-farm-2.0/releases)
+# Notcoin-auto-clicker [Github All Releases](https://github.com/dev-grix/Notcoin-auto-farm-2.0/releases)
 
-I was interested in notcoin and how to make money with it and decided to create an autobot for it, this is version 2.0
+I was interested in notcoin and how to make money with it and decided to create an autobot for it, this is version 1.0
 # Features
 * fully automatic clicks 24/7
 * automatic rocket catch 
